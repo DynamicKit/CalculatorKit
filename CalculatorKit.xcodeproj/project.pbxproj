@@ -45,6 +45,8 @@
 
 /* Begin PBXFileReference section */
 		DDE5312E24B98AC60064898C /* CalculatorKit.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalculatorKit.m; sourceTree = "<group>"; };
+		DDE8ED0324BDBF9600D3374E /* test.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = test.yml; sourceTree = "<group>"; };
+		DDE8ED0424BDBF9600D3374E /* website.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = website.yml; sourceTree = "<group>"; };
 		DDF4205724B70E7D00BD6004 /* CalculatorKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CalculatorKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDF4205A24B70E7D00BD6004 /* CalculatorKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CalculatorKit.h; sourceTree = "<group>"; };
 		DDF4205B24B70E7D00BD6004 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -75,7 +77,6 @@
 		DDF420B524B782B800BD6004 /* Stack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
 		DDF420B624B782B800BD6004 /* StackError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StackError.swift; sourceTree = "<group>"; };
 		DDF420B924B786C800BD6004 /* SingleOperatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleOperatorTests.swift; sourceTree = "<group>"; };
-		DDF420BE24B78AFD00BD6004 /* website.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; name = website.yml; path = .github/workflows/website.yml; sourceTree = "<group>"; };
 		DDF420BF24B78B0A00BD6004 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		DDF420C024B78B0A00BD6004 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		DDF420C124B78B0B00BD6004 /* CODEOWNERS */ = {isa = PBXFileReference; lastKnownFileType = text; path = CODEOWNERS; sourceTree = "<group>"; };
@@ -108,6 +109,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DDE8ED0224BDBF9600D3374E /* workflows */ = {
+			isa = PBXGroup;
+			children = (
+				DDE8ED0324BDBF9600D3374E /* test.yml */,
+				DDE8ED0424BDBF9600D3374E /* website.yml */,
+			);
+			name = workflows;
+			path = ../SecurityKit/.github/workflows;
+			sourceTree = "<group>";
+		};
 		DDF4204D24B70E7D00BD6004 = {
 			isa = PBXGroup;
 			children = (
@@ -241,7 +252,7 @@
 		DDF420BD24B78AC800BD6004 /* Workflows */ = {
 			isa = PBXGroup;
 			children = (
-				DDF420BE24B78AFD00BD6004 /* website.yml */,
+				DDE8ED0224BDBF9600D3374E /* workflows */,
 			);
 			name = Workflows;
 			sourceTree = "<group>";
