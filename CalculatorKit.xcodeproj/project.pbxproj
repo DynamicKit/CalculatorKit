@@ -44,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DDA0C4C524BFEC380081CB5F /* release.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = release.yml; sourceTree = "<group>"; };
 		DDE5312E24B98AC60064898C /* CalculatorKit.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalculatorKit.m; sourceTree = "<group>"; };
 		DDE8ED0324BDBF9600D3374E /* test.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = test.yml; sourceTree = "<group>"; };
 		DDE8ED0424BDBF9600D3374E /* website.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = website.yml; sourceTree = "<group>"; };
@@ -114,6 +115,7 @@
 			children = (
 				DDE8ED0324BDBF9600D3374E /* test.yml */,
 				DDE8ED0424BDBF9600D3374E /* website.yml */,
+				DDA0C4C524BFEC380081CB5F /* release.yml */,
 			);
 			name = workflows;
 			path = ../SecurityKit/.github/workflows;
