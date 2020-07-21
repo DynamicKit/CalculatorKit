@@ -22,7 +22,7 @@ env:
 jobs:
          
   xcodebuild_iOS_build_and_test:
-    name: iOS Unit Tests
+    name: Xcodebuild iOS Unit Tests
     runs-on: ${{ matrix.os }}
     strategy:
         matrix:
