@@ -93,15 +93,6 @@ jobs:
         run: |
           bundle -v
           type -a bundle
-      - name: Create Gemfile
-        run: |
-          touch Gemfile
-          echo "
-          source "https://rubygems.org"
-
-          gem "fastlane"
-
-          " >> Gemfile
       - name: Install Fastlane
         run: |
           gem install fastlane
