@@ -109,7 +109,7 @@ jobs:
         env:
           DESTINATION: ${{ matrix.destination }}
       - name: Upload test output
-      - uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v2
       with:
           name: Test output
           path: test_output/
