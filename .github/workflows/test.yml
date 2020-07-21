@@ -105,7 +105,7 @@ jobs:
           instruments -s devices
       - name: Fastlane scan
         run: |
-          bundle exec fastlane run scan project:"$PROJECT" scheme:"$TEST_SCHEME" device"$DESTINATION"
+          bundle exec fastlane run scan project:"$PROJECT" scheme:"$TEST_SCHEME" destination:"$DESTINATION"
         env:
           DESTINATION: ${{ matrix.destination }}
       - name: Upload test output
