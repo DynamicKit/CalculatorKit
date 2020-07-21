@@ -1,0 +1,334 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Calculator/Calculator.swift",
+      "line": 11,
+      "symbol": "Calculator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Calculator/Calculator.swift",
+      "line": 14,
+      "symbol": "Calculator.shared",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Calculator/Calculator.swift",
+      "line": 17,
+      "symbol": "Calculator.calculate(_:operator:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Calculator/Calculator.swift",
+      "line": 26,
+      "symbol": "Calculator.calculate(_:singleOperator:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/Operand.swift",
+      "line": 12,
+      "symbol": "Operand",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/Operand.swift",
+      "line": 14,
+      "symbol": "Operand.zero",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/Operand.swift",
+      "line": 18,
+      "symbol": "Operand.one",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/Operand.swift",
+      "line": 22,
+      "symbol": "Operand.two",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/Operand.swift",
+      "line": 26,
+      "symbol": "Operand.three",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/Operand.swift",
+      "line": 30,
+      "symbol": "Operand.four",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/Operand.swift",
+      "line": 34,
+      "symbol": "Operand.five",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/Operand.swift",
+      "line": 38,
+      "symbol": "Operand.six",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/Operand.swift",
+      "line": 42,
+      "symbol": "Operand.seven",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/Operand.swift",
+      "line": 46,
+      "symbol": "Operand.eight",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/Operand.swift",
+      "line": 50,
+      "symbol": "Operand.nine",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/Operand.swift",
+      "line": 56,
+      "symbol": "Operand",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/Operand.swift",
+      "line": 58,
+      "symbol": "Operand.stringValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/OperandService.swift",
+      "line": 11,
+      "symbol": "OperandService",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/OperandService.swift",
+      "line": 13,
+      "symbol": "OperandService.stringValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operand/OperandValue.swift",
+      "line": 11,
+      "symbol": "OperandValue",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/Operation.swift",
+      "line": 11,
+      "symbol": "Operation",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/Operation.swift",
+      "line": 13,
+      "symbol": "Operation.plus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/Operation.swift",
+      "line": 14,
+      "symbol": "Operation.minus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/Operation.swift",
+      "line": 15,
+      "symbol": "Operation.multiply",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/Operation.swift",
+      "line": 16,
+      "symbol": "Operation.divide",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/OperationService.swift",
+      "line": 11,
+      "symbol": "OperationService",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/OperationService.swift",
+      "line": 13,
+      "symbol": "OperationService.calculate(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/Operator.swift",
+      "line": 11,
+      "symbol": "Operator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/Operator.swift",
+      "line": 13,
+      "symbol": "Operator.plus",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/Operator.swift",
+      "line": 17,
+      "symbol": "Operator.minus",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/Operator.swift",
+      "line": 21,
+      "symbol": "Operator.multiply",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/Operator.swift",
+      "line": 25,
+      "symbol": "Operator.divide",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/Operator.swift",
+      "line": 31,
+      "symbol": "Operator",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Operator/Operator.swift",
+      "line": 33,
+      "symbol": "Operator.calculate(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Single Operator/SingleOperation.swift",
+      "line": 12,
+      "symbol": "SingleOperation",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Single Operator/SingleOperation.swift",
+      "line": 14,
+      "symbol": "SingleOperation.rotate",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Single Operator/SingleOperation.swift",
+      "line": 15,
+      "symbol": "SingleOperation.clear",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Single Operator/SingleOperationService.swift",
+      "line": 11,
+      "symbol": "SingleOperationService",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Single Operator/SingleOperationService.swift",
+      "line": 13,
+      "symbol": "SingleOperationService.calculate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Single Operator/SingleOperator.swift",
+      "line": 11,
+      "symbol": "SingleOperator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Single Operator/SingleOperator.swift",
+      "line": 13,
+      "symbol": "SingleOperator.clear",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Single Operator/SingleOperator.swift",
+      "line": 17,
+      "symbol": "SingleOperator.rotate",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Single Operator/SingleOperator.swift",
+      "line": 22,
+      "symbol": "SingleOperator",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Single Operator/SingleOperator.swift",
+      "line": 24,
+      "symbol": "SingleOperator.calculate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Symbol/Symbol.swift",
+      "line": 11,
+      "symbol": "Symbol",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Symbol/SymbolChild.swift",
+      "line": 11,
+      "symbol": "SymbolChild",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CalculatorKit/CalculatorKit/Source/Symbol/SymbolOperator.swift",
+      "line": 11,
+      "symbol": "SymbolOperator",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/CalculatorKit/CalculatorKit"
+}
