@@ -16,8 +16,6 @@ on:
 env:
   PROJECT: ${{ github.event.repository.name }}.xcodeproj
   SCHEME: ${{ github.event.repository.name }}
-  TEST_SCHEME: ${{ github.event.repository.name }}Tests
-
 
 jobs:
          
